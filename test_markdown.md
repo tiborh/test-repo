@@ -14,4 +14,8 @@ yet more some text
 * second list item
 * and the third one
 
+for more information:
+
+https://help.github.com/articles/github-flavored-markdown/
+
 EOF
